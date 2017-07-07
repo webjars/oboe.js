@@ -24,8 +24,8 @@
         <requirejs>
             {
                 "paths": {
-                    "oboe.js": "oboe-browser.js",
-                    "oboe.js": "oboe-browser.min.js"
+                    "oboe.js":     "oboe-browser.js",
+                    "oboe.js-min": "oboe-browser.min.js"
                 }
             }
         </requirejs>
